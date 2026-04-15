@@ -1,0 +1,75 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Models
+*.pt
+*.pth
+*.onnx
+*.pb
+
+# Build directories (C++)
+build/
+CMakeFiles/
+cmake_install.cmake
+CMakeCache.txt
+Makefile
+*.cmake
+*.exe
+*.out
+*.a
+*.so
+
+# Data
+*.mp4
+*.avi
+*.mov
+runs/
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+.env
+
+# Temp files
+*.tmp
+*.temp
+.cache/

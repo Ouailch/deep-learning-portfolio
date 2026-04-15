@@ -1,0 +1,14 @@
+# Sample fruit images for testing
+# 10 sample images (3-4 per class) are included
+
+good/
+  - fruit_001.jpg
+  - fruit_002.jpg
+  
+bad/
+  - fruit_003.jpg
+  - fruit_004.jpg
+
+rotten/
+  - fruit_005.jpg
+  - fruit_006.jpg
