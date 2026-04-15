@@ -130,21 +130,21 @@ github-projects/
 ## 🎓 Educational Background
 
 - **University**: Hochschule Niederrhein (University of Applied Sciences)
-- **Program**: Bachelor of Science in Computer Science
+- **Program**: Bachelor of Science in IT
 - **Specialization**: Deep Learning & Computer Vision
 - **Supervisor**: Prof. Dr. Steffen Goebbels (iPattern Institute)
 
 ## 💼 Practical Experience
 
 ### Praxisphase (Internship)
-- **Duration**: 06.01.2025 - 23.03.2025 (11 weeks)
+- **Duration**: 06.01.2025 - 23.03.2025 (12 weeks)
 - **Organization**: iPattern Institute, Hochschule Niederrhein
 - **Project**: "3D Building Model Calculation for Cadastre from Remote Sensing Data"
 - **Tasks**: Data preparation, model training, evaluation, C++ implementation
 
 ## 📚 Related Work
 
-### Bachelor Thesis (in progress)
+### Bachelor Thesis
 Title: Deep Learning Models for Window and Door Detection
 
 **Scope**:
@@ -219,9 +219,8 @@ Each project has its own setup guide. See individual README files:
 
 ## 📞 Contact & Support
 
-- **Email**: ouail.chlih@example.com
-- **LinkedIn**: [Profile Link]
-- **GitHub**: [Repository Link]
+- **Email**: wailchlih@gmail.com
+- **Tel**: +4917624179500
 
 ## 📄 License
 
@@ -240,4 +239,3 @@ All projects are licensed under the MIT License - See [LICENSE](LICENSE) file fo
 **Version**: 1.0.0  
 **Status**: Production Ready ✅
 
-**Portfolio Quality**: ⭐⭐⭐⭐⭐ (Excellent for job applications and technical interviews)
